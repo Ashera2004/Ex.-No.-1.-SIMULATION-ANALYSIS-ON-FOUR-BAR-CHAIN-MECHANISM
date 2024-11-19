@@ -2,11 +2,11 @@
 
 ## DATE: 
 
-## AIM:
+## AIM:  To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
 
-###   To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
 
-###   In a four bar chain ABCD, AD is fixed and is 120 mm long. The crank AB is 30 mm long and rotates at 100 rpm clockwise, while the link CD = 60mm oscillates about D. BC and AD are of equal lengths. ∟BAD = 600.
+
+###   In a four bar chain ABCD, AD is fixed and is 200 mm long. The crank AB is 60 mm long and rotates at 100 rpm clockwise, while the link CD = 160 mm oscillates about D. BC and AD are of equal lengths. ∟BAD = 60 degrees.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/03952954-387e-4fd3-a1a0-a8dd4b82ae07)
 
@@ -20,17 +20,17 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
-###   1. Draw a horizontal line AD of length 120 mm. 
-###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
-###   3. With B as centre, BC = AD = 120mm draw an arc 
-###   4. With D as centre, CD = 60 mm draw another arc 
+###   1. Draw a horizontal line AD of length 200 mm. 
+###   2. At A, Draw a line AB of length 60 mm at an angle of 60 degrees.
+###   3. With B as centre, BC = AD = 200 mm draw an arc. 
+###   4. With D as centre, CD = 160 mm draw another arc.
 ###   5. Join BC and DC 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
+![image](https://github.com/Ashera2004/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/blob/main/16.png)
 
 ###   This value of VBA is used to decide the scale for the velocity diagram 
 ###   Let us construct the velocity diagram taking a scale: 
-###   0.3141 m/s = 60 mm (say) 
+###   0.6282 m/s = 60 mm (say) 
 ###   1. The fixed link AD, appears as a point in the velocity diagram 
 ###   2. From a, draw ab = 60mm, perpendicular to AB in configuration diagram and in the direction of velocity (downward direction) 
 ###   3. From b, draw vector bc perpendicular to BC
@@ -45,18 +45,17 @@
 ###   3. Finally, calculate ωcd from the relation v = rω 
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/97627fa4-0d38-412c-8745-082bd7b85299)
+![image](https://github.com/Ashera2004/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/blob/main/Screenshot%202024-11-19%20144629.png)
+![image](https://github.com/Ashera2004/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/blob/main/Screenshot%202024-11-19%20162347.png)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/15f7e50d-486d-46d0-bed0-8f51b36e7396)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
+![image](https://github.com/Ashera2004/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/blob/main/Screenshot%202024-11-19%20144205.png)
 
 
 ## Output:
 
 
-### Name:
-### Register Number: 
+###  Name: A S Siddarth
+### Register Number: 24010669
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
